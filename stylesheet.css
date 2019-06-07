@@ -97,6 +97,7 @@ header {
   height:12.8%;
   float:left;
   margin-right: 30px;
+  cursor:pointer;
 }
 
 .header-left li {
