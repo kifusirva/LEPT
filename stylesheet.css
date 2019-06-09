@@ -202,6 +202,7 @@ header {
 .lept-logo {
   height: 15%;
   width: 15%;
+  cursor:pointer;
 }
 
 footer img {
