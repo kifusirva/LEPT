@@ -145,15 +145,14 @@ header {
 
 .lesson-wrapper {
   padding-bottom: 80px;
-  padding-left:5%;
-  padding-right:5%;
+  height:500px;
   background-color: #f7f7f7;
   text-align: center;
 }
 
 .heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   color: #5f5d60;
 }
 
