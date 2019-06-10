@@ -1,0 +1,63 @@
+@media all and (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+
+
+  .lesson {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .header-left li {
+    display:none;
+  }
+
+  .lept-logo {
+    height:100%
+    width:30%;
+  }
+
+  .menu-icon {
+    display:block;
+    width:20%;
+    height:65px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+
+}
