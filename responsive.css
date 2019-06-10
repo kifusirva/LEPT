@@ -1,4 +1,4 @@
-@media all and (max-width: 1000px) {
+@media (max-width: 1000px) {
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -17,7 +17,7 @@
   }
 }
 
-@media all and (max-width: 670px) {
+@media(max-width: 670px) {
 
 
   .lesson {
