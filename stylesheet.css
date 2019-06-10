@@ -11,14 +11,12 @@ a {
   text-decoration: none;
 }
 
-.clear {
-  clear:left;
-
 .container {
-  width: 1170px;
+  width: 100%;
   max-width:1170px;
   padding: 0 15px;
   margin: 0 auto;
+  text-align:center;
 }
 
 .top-wrapper {
@@ -234,5 +232,4 @@ footer p {
 
 footer {
   padding-top: 30px;
-  padding-bottom:20px;
 }
