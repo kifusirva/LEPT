@@ -11,13 +11,14 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear:left;
 
 .container {
   width: 1170px;
   max-width:1170px;
   padding: 0 15px;
   margin: 0 auto;
-  text-align:center;
 }
 
 .top-wrapper {
@@ -42,10 +43,12 @@ a {
 
 .btn-wrapper {
   margin: 20px 0;
+  text-align:center;
 }
 
 .btn-wrapper p {
   margin: 10px 0;
+  
 }
 
 .signup {
@@ -69,6 +72,7 @@ a {
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
+  text-align:center;
 }
 
 .btn:hover {
@@ -140,15 +144,16 @@ header {
 }
 
 .lesson-wrapper {
-  height: 500px;
   padding-bottom: 80px;
+  padding-left:5%;
+  padding-right:5%;
   background-color: #f7f7f7;
   text-align: center;
 }
 
 .heading {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 80px;
+  padding-bottom: 50px;
   color: #5f5d60;
 }
 
@@ -230,4 +235,5 @@ footer p {
 
 footer {
   padding-top: 30px;
+  padding-bottom:20px;
 }
