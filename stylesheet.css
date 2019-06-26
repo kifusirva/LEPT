@@ -116,13 +116,9 @@ header {
 
 .header-right {
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
-  transition: all 0.5s;
+  font-size:24px;
 }
 
-.header-right:hover {
-  background-color: rgba(255, 255, 255, 0.5);
-}
 
 
 .header-right a {
